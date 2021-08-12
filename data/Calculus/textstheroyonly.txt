@@ -1,0 +1,398 @@
+absolute convergence series mathematics infinite series said converge absolutely absolutely convergent sum absolute finite
+direct substitution property direct substitution property f polynomial rational function domain f lim f x f
+absolute maximum minimum absolute maximum point point function possible value similarly absolute minimum point point function least possible value
+absolute value absolute value distance zero number number line without considering direction absolute value number never negative take look absolute value absolute value absolute value
+absolute value function absolute value function function algebraic expression within absolute value recall absolute value number distance number line absolute value parent function written f x x defined f x x x x
+airy function physical airy function ai special function astronomer airy function ai related function linearly independent differential equation known airy equation equation
+alternating series alternating series series alternate positive negative general form alternating series n n slight variation
+alternating series estimation theorem alternating series estimation theorem us way approximate sum alternating series remainder error calculate use theorem series must follow two series must decreasing n b n
+angle angle two deferred single point angle turn around one position another vector
+angular momentum angular momentum defined property rotating object given moment inertia times angular velocity property rotating body given product moment inertia angular velocity rotating object
+angular speed angular speed measure fast central angle rotating body respect time
+maximum value directional derivative given function f two three point x two three maximum value directional derivative point x x u direction gradient vector x
+directrix parabola set plane equal distance away given point given line point focus parabola line directrix directrix perpendicular axis symmetry parabola touch axis symmetry parabola vertical directrix horizontal consider open upwards directrix horizontal line form
+distance parallel distance two parallel understood distance think parallel must intersect eventually intersect line intersection distance distance distance two parallel ax ax given
+ opposite function derivative one function many take form function plus arbitrary constant key part indefinite
+distance point line geometry distance point line distance given point point infinite straight line perpendicular distance point line length line segment point nearest point line
+ integration reverse process differentiation example f x know derivative f x c c arbitrary constant integration constant
+distance point plane distance point plane along line perpendicular plane therefore distance point p plane along line parallel normal vector shown gray line segment
+approximation method value function near known value method tangent line known value function approximate function graph
+approximation series approximation series represent number polynomial similar value number neighborhood around x value f x f f x f x f
+arc curvature important topic related arc length curvature concept curvature way measure sharply smooth curve turns circle constant curvature smaller radius circle greater curvature
+arc length arc length distance two along section curve length irregular arc segment also rectification curve
+polar curve polar curve shape polar system polar defined variable distance origin pole depending angle measured positive
+area curve area curve two found definite integral two find area curve f x x x b integrate f x area calculated integration given
+asymptote asymptote line curve given curve arbitrarily closely
+distance space distance formula distance two square root sum corresponding given distance given
+hyperbola every hyperbola two hyperbola vertical transverse axis center h k one asymptote equation k x h equation k x h
+vertical asymptote vertical vertical correspond denominator rational function also arise almost certainly first encounter context
+binormal vector binormal vector defined binormal vector defined cross product unit tangent unit normal vector binormal vector orthogonal tangent vector normal vector
+bounded sequence sequence bounded bounded say number k less equal sequence another number k greater equal sequence therefore sequence k k
+distance formula three distance formula distance two square root sum corresponding given distance given
+divergence divergence mathematics differential operator applied function result function rate change divergence vector v given divergence vector v vector v typically velocity field fluid flow vector v typically velocity field fluid flow
+divergence improper integral improper integral said diverge limit integral exist improper integral integral one integration discontinuity integrand within integration
+divergence infinite series mathematics divergent series infinite series convergent meaning infinite sequence partial series finite limit series individual series must approach zero let k infinite series let sequence partial series n real number infinite series k n finite limit infinite series
+divergence sequence put simply divergence sequence sequence converge limit convergence sequence goes toward real number divergent divergence go toward infinity negative infinity getting farther farther away
+divergence vector field divergence vector field simply much flow expanding given point indicate direction expansion hence contrast curl vector field divergence scalar
+divergent improper integral improper integral said diverge limit integral exist improper integral integral one integration discontinuity integrand within integration
+bounded set set bounded bounded bounded bounded set two x x set bounded unbounded example interval bounded
+domain function assign domain function set possible function example domain f x real domain g x real except also define special whose limited
+effect effect used measure speed radar radio wave sent sender continuously object moving towards away sender frequency reflected radio wave frequency shift known effect shown fig
+geometric interpretation dot product dot product therefore geometric interpretation length projection onto unit vector two coincide
+dot product algebraically dot product sum corresponding two geometrically product two cosine angle
+curve mathematics curve unicursal quartic curve three inflection given equation bullet curve three double real projective plane therefore unicursal curve genus zero
+double integral double way integrate area among us compute volume surface
+change variable calculus integration substitution also known change method counterpart chain rule differentiation loosely thought chain rule backwards
+e number e sometimes natural number number important mathematical constant approximately equal used base logarithm corresponding logarithm natural logarithm written x
+ellipsoid ellipsoid closed surface plane cross either ellipses ellipsoid symmetrical three mutually perpendicular axes intersect
+epitrochoid epitrochoid roulette point attached circle radius r rolling around outside fixed circle radius r point distance center exterior circle
+hyperbola hyperbola two connected mirror resemble two infinite hyperbola one three conic section formed intersection plane double cone conic parabola ellipse
+cantor set cantor set set written base
+catenary catenary mathematics curve shape flexible hanging chain name chain freely hanging cable string shape also chainette body uniform mass per unit length upon solely gravity
+principle two height corresponding level volume following image example principle height every position case area volume two despite distortion
+center gravity gravity cog human body hypothetical point around force gravity act point combined mass body concentrated hypothetical point cog need lie within physical object person
+error approximation suppose approximate function f x near x polynomial x accurate approximation big error f x x error often remainder x since left replace f x x
+error estimate difference value true value parameter sometimes value
+error estimate rule estimate error rule start result advanced calculus fourth derivative f continuous b f x x b h f c point c b
+error estimate trapezoidal rule error composite trapezoidal rule difference value integral numerical result number b
+error function error function also gauss error function often complex function complex variable defined z
+evaluation theorem fundamental theorem calculus part also known evaluation theorem find integrand evaluate definite integral interval
+exponential decay mathematics exponential decay process reducing amount consistent percentage rate period time expressed formula x wherein final amount original amount b decay factor x amount time
+extreme value characteristic minimum value maximum value known extreme example body size people would represent extreme height characteristic people
+center mass center mass position defined relative object system average position system weighted according sometimes center mass fall anywhere object
+centripetal force centripetal force name given force change direction velocity toward center circular motion component force perpendicular velocity part resulting centripetal force
+centroid centroid point object point three triangle intersect known centroid triangle also defined point intersection three median line side opposite vertex triangle
+change integral calculus integration substitution also known change method counterpart chain rule differentiation loosely thought chain rule backwards
+circulation velocity field physics circulation line integral vector field around closed curve fluid dynamics field fluid velocity field circulation first used independently martin usually gamma
+cissoid geometry cissoid cubic plane curve notable property used construct two mean given ratio particular used double cube
+closed curve closed curve curve beginning end
+extreme value theorem extreme value theorem function f x continuous closed interval b function f x must maximum minimum interval b
+sequence sequence set one zero one proceeds based rule number number equal sum preceding two f
+first derivative test first derivative test process first order find point
+local derivative function sign around critical point function said local relative point derivative positive increasing function negative decreasing function function local relative maximum critical point
+first octant context solid geometry first octant portion three positive system first octant one eight determined
+differential equation differential equation defined equation x two x function f x defined region first derivative equation first order exist
+ differential geometry describe kinematic particle moving along continuous differentiable curve space geometric curve irrespective motion
+theorem nice result regarding second partial theorem us mixed variable partial equal defined continuous region point b b b
+closed interval method closed interval method way solve problem within specific interval function found closed interval method absolute maximum minimum interval either critical closed interval method find global maximum minimum continuous function f closed interval b need following three find f stationary f b find f interval b global maximum value global minimum value
+closed set several equivalent closed set let subset metric space set closed complement open set set closure converge within every point outside neighborhood disjoint topological definition closed set set limit therefore closed set c one whatever point x picked outside c x always isolated open set touch c possible set neither open closed interval
+production function production function relationship two typically physical capital labor number produced commonly used function forecast production basic form equation q l k formula q quantity produced l l amount labor typically expressed k amount physical capital input number particular machine operation perhaps factory lower case b formula total factor productivity change output result typically change result improvement efficiency technology alpha beta reflect output elasticity output elasticity change output change either labor physical capital example output elasticity physical capital k k percent output percent true output elasticity labor increase percent l output elasticity output percent
+coefficient product considered relation specific factor especially constant factor term distinguished variable number measure property characteristic substance device process coefficient expansion metal
+binomial coefficient binomial coefficient n k number ways unordered also known combination combinatorial number n k n k used denote binomial coefficient sometimes read n choose k correspond following n k n k true k n n k
+average value function average value function average height graph function average value function f x interval b given formula ave b f x x
+constant function mathematics constant function function whose output value every input value example function x constant function value x regardless input value x
+decomposition function decomposition process break one complex function multiple smaller solve shorter
+derivative function derivative function f x variable x measure rate value function respect change variable derivative f respect x
+differentiable function function differentiable point defined derivative point slope tangent line left approaching value slope tangent right
+domain function domain function set possible function example domain f x real domain g x real except also define special whose limited
+end behavior function end behavior function f behavior graph function end behavior function trend graph look right end x left end x
+extreme value function extreme value function value function interval either maximum value minimum value usually distinguish local global absolute extreme
+fixed point function mathematics fixed point sometimes also known invariant point function element function domain function say c fixed point function f f c fixed point periodic point period equal one
+harmonic function harmonic function mathematical function two property value point equal average along circle around point provided function defined within circle
+coefficient friction coefficient friction ratio frictional force resisting motion two contact normal force pressing two together usually letter mu mathematically f frictional force n normal force f n measured force coefficient friction dimensionless coefficient friction different static friction kinetic friction static friction frictional force force applied object object remains rest force static friction overcome kinetic friction frictional force motion object
+function h x step function also known unit step function x function discontinuous function x x x
+hyperbolic function example hyperbolic cosine function may used describe shape curve formed line suspended two see catenary hyperbolic may also used define measure distance certain geometry
+integrable function practical integrability continuity function continuous given interval integrable interval additionally function finite number interval also integrable interval
+polynomial constant multiple accompany variable expression example expression
+ added divided new domain new function contain common original
+common ratio amount multiply time geometric sequence example number times number common ratio common ratio determined dividing term preceding term
+comparison test series n n n n n also sum n n n n sum n also idea test term one series smaller another sum series must smaller example series n harmonic known divergent comparison test used also assert divergence series n prior series latter latter function prior every single value summation n n series n must diverge
+demand function demand function relationship one variable much quantity goods alternative good related goods alternative income alternative affecting demand
+dependent variable dependent variable variable tested measured experiment independent variable experiment researcher looking possible effect dependent variable might independent variable
+derivative exponential exponential corresponding inverse logarithmic following differentiation note exponential function f x x special property derivative function f x x f x f x f x
+derivative integral derivative integral function function basically two cancel like addition subtraction furthermore taking variable top limit integral x substituting function f
+derivative logarithmic logarithmic function base exponential function base form pair mutually inverse derivative logarithmic function also found inverse function theorem x ay
+derivative power function power function f x exponent derivative x
+derivative power series within interval convergence derivative power series sum individual x x
+derivative slope tangent derivative function us slope line tangent function point graph used find equation tangent line
+trigonometric basic trigonometric quotient rule easy obtain expression derivative tangent
+inverse trigonometric function inverse trigonometric simply defined inverse basic trigonometric sine cosine tangent cotangent secant cosecant inverse trigonometry used get angle trigonometry
+limit function mathematics limit value function sequence input index value essential calculus mathematical analysis used define continuity
+devil curve devil curve curve defined plane equation form devil studied heavily name comes shape central lemniscate
+continuity differentiable function function f said continuously differentiable derivative x continuous function although derivative differentiable function never jump discontinuity possible derivative essential discontinuity
+differential equation first order differential equation equation form f solution first order differential equation function f f f every value
+order differential equation order differential equation order highest derivative also known differential coefficient present equation example x equation order highest derivative hence third order differential equation
+orthogonal two perpendicular intersection said orthogonal
+marginal profit function marginal profit derivative profit function based cost function revenue function definition c x cost x marginal cost x x x
+marginal revenue function rate total revenue slope revenue curve first derivative revenue function interested finding firm marginal revenue profit maximization output point marginal revenue marginal cost
+maximum minimum function say function f x relative minimum value x b f b less value immediately preceding function may fact less value function value either maximum minimum extreme value
+orthogonal definition say orthogonal perpendicular dot product two zero set every vector magnitude set mutually orthogonal
+plane plane plane space affine space point way second order contact point word osculate past participle meaning kiss plane thus plane
+ oval quartic plane curve defined set plane product two fixed constant may ellipse sum constant rather product special case polynomial polynomial used degree
+natural exponential function natural exponential function f x ex unique function equal derivative initial value f hence one may define e f natural logarithm logarithm base e inverse function natural exponential function
+natural logarithm natural logarithm number n power exponent e raised equal constant e constant approximately equal n x n natural logarithm mostly used pure mathematics calculus
+non integrable function non integrable function one definite integral ca assigned value example function integrable ca assign integral number
+non differentiable function function differential case one variable function finite derivative
+odd function function f odd graph f symmetric respect origin algebraically f odd f x x domain f
+piecewise function piecewise function function built different different
+polynomial function polynomial function function integer positive integer variable equation like quadratic equation cubic equation example polynomial exponent equal
+paraboloid geometry paraboloid quadric surface exactly one axis symmetry center symmetry term paraboloid derived parabola conic section similar property symmetry general equation type paraboloid z b surface parallel plane produce figure paraboloid revolution
+parallel parallel plane meet two straight plane intersect point said parallel parallel space never meet
+parallel parallel direction one vector must ratio corresponding parallel vector
+parallelepiped parallelepiped figure formed six
+parametric curve parametric equation group one independent parametric commonly used express make geometric object curve surface case collectively parametric representation alternatively object simply put parametric curve normal curve choose define curve x another variable simplicity elegance
+tangent parametric curve slope tangent line parametric curve defined parametric x g given parametric curve horizontal tangent wherever curve concave positive concave negative
+parametric parametric equation type equation independent variable parameter often dependent defined continuous parameter dependent another variable
+power function power function function single term product real number coefficient variable raised fixed real number number variable raised exponent known coefficient function g x whole power square root function x exponent real number also power function
+range function range function complete set possible resulting dependent variable usually substituted domain range resulting get substituting possible
+symmetry function symmetrical reflect graph get graph reflect get graph two symmetry call even odd
+fundamental theorem calculus line gradient theorem also known fundamental theorem calculus line line integral gradient field original scalar field curve gradient vector field
+fundamental theorem calculus vector fundamental vector calculus state integral type derivative object equal function along boundary object speak fundamental language
+parametric line space parametric parametric line curve surface variable usually written parametric denote x graph curve plane
+parametric surface x x u v u v z z u v parametric surface two independent variable u v parametric surface written shortly r u v u v u v z u v
+parametric trajectory x pair parametric circle indeed goes point x circumference circle
+space curve curve map r x parameter interval r b plane x image curve plane
+geometric series geometric series series written form index shift geometric series often written n identical series identical provided converge course
+geometric series definition convergence divergence series nth partial sum series given sequence partial l sum series sum series
+global maximum minimum maximum minimum entire function absolute global maximum minimum one global maximum one global minimum one local maximum minimum
+gradient rate regular graded ascent descent inclination part sloping upward downward
+graph exponential function simple exponential function graph base shape graph x graph across across x x graph h left
+graph logarithmic logarithmic function graph point inverse exponential function graph logarithmic function vertical asymptote x graph logarithmic function decrease left right b
+graph parametric curve mathematics parametric equation group one independent parametric commonly used express make geometric object curve surface case collectively parametric representation alternatively object simply put parametric curve normal curve choose define curve x another variable simplicity elegance example
+graph quadric surface quadric surface graph equation three x z
+integer function integer function x real x integer function integer less equal x reason function also floor function lower value essence real number nearest integer example return lower equivalent number input function result
+green mathematics green set three vector calculus bulk boundary region differential act mathematician green discovered green theorem
+partial partial derivative function several derivative respect one constant opposed total derivative vary partial used vector calculus differential geometry
+notation partial symbol used denote partial one first known symbol mathematics marquis de used partial
+period function distance repetition function period function trigonometric function length one complete cycle period example consider graph x determine period point considered starting point starting x graph begin repeat increasing x thus period determined x ending point beginning period also inversely related frequency function period length cycle frequency number span thus formula frequency period
+piecewise defined function mathematics function function defined multiple different interval domain piecewise definition actually way function rather characteristic function
+curve piecewise smooth curve curve c broken finitely many smooth terminal point one piece initial point next example curve formed two sides rectangle polygon piecewise smooth
+intersection plane analytic geometry intersection line plane space empty set point line entire line line plane empty set line parallel plane outside
+plane mathematics particularly differential geometry plane plane space affine space point way second order contact point word osculate past participle meaning kiss plane thus plane
+green theorem green theorem relationship line integral vector field closed path plane double integral region green theorem special case much general theorem
+green theorem vector first form green theorem stated curl k reason sometimes denote curl v rot vector field v said irrotational curl
+series series infinite series expansion inverse tangent function discovered later formula special case x series expansion x x
+plane parallel geometry parallel plane meet two straight plane intersect point said parallel parallel space never meet
+equation line general form linear slope line point line equation useful know one point line slope line want find line
+law law law velocity liquid flowing capillary directly proportional pressure liquid fourth power radius capillary inversely proportional viscosity liquid length capillary flow q fluid related number viscosity n fluid pressure gradient across tubing p length l diameter r tubing
+harmonic function harmonic function mathematical function two property value point equal average along circle around point provided function defined within circle
+higher process differentiation applied several times succession leading particular second derivative function f derivative derivative second derivative often useful physical interpretation
+polar curve polar curve shape polar system polar defined variable distance origin pole depending angle measured positive
+graph polar curve polar defined variable distance origin pole depending angle measured positive polar describe familiar ellipses well unfamiliar
+polar moment inertia polar moment inertia shaft beam resistance distorted torsion function shape greater magnitude polar moment inertia greater torsional resistance object
+polynomial function polynomial function function quadratic cubic quartic integer give general definition polynomial define degree example quadratic polynomial function p x c
+continuity polynomial function every polynomial function continuous everywhere every rational function continuous everywhere defined every point domain occur denominator
+power function power function function single term product real number coefficient variable raised fixed real number number variable raised exponent known coefficient function g x whole power square root function x exponent real number also power function
+power rule combined chain rule general power rule special case chain rule useful finding derivative function raised nth power general power rule derivative n times function raised th power times derivative function
+power series power series sum general form whether series value depend chosen power series function
+law law law elasticity discovered scientist relatively small object displacement size deformation directly proportional force load mathematically law applied force f constant k times displacement change length x f value k kind elastic material consideration also shape
+power series use ratio test sometimes root test determine power series important convergence power series power series absolutely symmetric interval expansion point outside symmetric interval distance expansion point radius convergence b combination convergence divergence may occur interval series may diverge converge diverge one converge c power series always expansion point set series interval convergence
+power series interval convergence power series sum general form whether series value chosen power series function interval power series interval input series power series radius convergence interval convergence likewise power series every x radius convergence interval convergence x x
+horizontal asymptote horizontal horizontal graph degree exponent denominator bigger degree numerator horizontal asymptote degree numerator bigger denominator horizontal asymptote
+product dot dot product amount one vector goes direction another instance box angle horizontal component vertical component force vector
+product scalar scalar dot product two defined product two cosine b two angle two definition scalar product two b b cos
+horizontal line test horizontal line test function horizontal line graph function one x value least one value
+hyperbola hyperbola horizontal transverse axis center h k one asymptote equation k x h equation k x h hyperbola vertical transverse axis center h k one asymptote equation k x h equation k x h
+hyperbola hyperbola two connected mirror resemble two infinite hyperbola one three conic section formed intersection plane double cone conic parabola ellipse example
+hyperbola vertices vertices fixed distance center line going one vertex center ending vertex transverse axis foci hyperbola inside branch focus fixed distance c center example
+product law product law basically taking limit product two equal product two
+product rule product rule derivative product two first function times derivative second function plus second function times derivative first function
+hyperbolic function example hyperbolic cosine function may used describe shape curve formed line suspended two see catenary hyperbolic may also used define measure distance certain geometry
+hyperbolic paraboloid hyperbolic paraboloid doubly surface thus used construct saddle roof straight example
+quadratic function quadratic function one form f x c b c equal zero graph quadratic function curve parabola may open upward downward vary width steepness basic u shape
+quadric surface quadric defined quadratic two dimensional space cones quadric revolution finite curve two swept three dimensional space one axis create surface
+quadric surface cone definition quadric conic quadric expressed form quadric surface plane trace conic section
+quadric surface hyperboloid quadric defined quadratic two dimensional space cones quadric revolution finite curve two swept three dimensional space one axis create surface example
+quadric surface paraboloid many quadric different conic usually name surface example surface equation form call surface elliptic paraboloid
+quaternion quaternion two x z component axis rotation occur also w component amount rotation occur axis short vector float
+implicit function theorem implicit function function defined implicit equation one value thus implicit function context unit circle defined implicitly f x
+improper integral improper integral definite integral either infinite integrand infinity one range integration
+improper integral improper integral said converge corresponding limit otherwise
+comparison theorem improper integral comparison theorem improper similar comparison test convergence study part series draw conclusion convergence divergence improper integral without actually integral
+test test x interval f increasing interval b x interval f decreasing interval definition critical number function f number c domain f either c c exist
+radian measure radian measure ratio length circular arc radius arc r one radian measure central angle arc equal length radius circle
+radius gyration radius gyration generally defined distance axis rotation point total mass body supposed concentrated moment inertia axis may remain simply gyration distribution object
+ramp function ramp function unary real function whose graph shaped like ramp expressed numerous example negative output input term ramp also used scaling shifting function article unit ramp function slope starting example
+range function range function complete set possible resulting dependent variable usually substituted domain plain definition range resulting get substituting possible
+rate quantity amount degree something measured per unit something else example rate per minute b amount payment charge based another amount specifically example amount premium per unit insurance
+rate average average rate single rate property one location weighted average individual applicable location
+independent variable independent variable exactly like variable alone trying measure example someone age might independent variable
+indeterminate indeterminate form expression two whose limit determined solely individual common calculus indeed limit definition derivative limit indeterminate form
+inertia inertia property body virtue agency put motion moving change magnitude direction velocity inertia passive property enable body anything except oppose active torques
+derivative rate derivative f instantaneous rate change f x respect x x instantaneous rate change large curve rapidly tangent large slope
+infinite discontinuity infinite discontinuity type essential discontinuity one one sided go toward infinity essential discontinuity also exist
+rate instantaneous instantaneous rate rate instant time instantaneous rate differential rate reactant product determine instantaneous rate time calculating negative slope curve concentration reactant versus time time
+ratio test ratio test one used determine convergence divergence infinite series even use ratio test find radius interval convergence power series many test use trying find whether series
+rational function mathematics rational function function defined rational fraction algebraic fraction numerator denominator need rational may taken field case one rational function rational fraction may taken field l domain function set denominator zero rational function r x rational function since numerator polynomial denominator also polynomial
+continuity rational function rational continuous real except denominator zero denominator rational function f x zero number x function discontinuous
+rational function integration partial know rational function ratio two p x x q x degree p x lesser degree q x proper fraction else improper fraction even fraction improper reduced proper fraction long division process
+reciprocal function reciprocal constant denominator polynomial denominator reciprocal function determined finding expression f x graph reciprocal function function table transforming graph domain range reciprocal function depend symmetry reciprocal function graph depend constant sign
+reciprocal rule reciprocal rule derivative reciprocal function f derivative reciprocal rule used show power rule negative already established positive also one readily deduce quotient rule reciprocal rule product rule
+rectangular rectangular system two real number intersect right angle horizontal number line vertical number line define flat surface plane point plane associated ordered pair real x first number second number intersection two axes known origin point
+infinite interval infinite interval interval whose least one infinity infinity symbol minus infinity plus infinity
+rectilinear motion linear motion also rectilinear motion motion along straight line therefore mathematically one spatial dimension linear motion two uniform linear motion constant velocity zero acceleration linear motion variable velocity acceleration motion particle object along line position x time example linear motion athlete running along straight track
+inflection point inflection function concavity concave concave vice found considering second derivative
+reduction formula integral calculus integration reduction formulae method recurrence used expression integer parameter usually form elementary transcendental arbitrary degree ca directly integration reduction formula set obtain integral similar expression lower integer parameter progressively integral method integration one used reduction formula one us solve integral problem reducing problem easier integral problem reducing problem easier problem found
+region two area two integral absolute value difference
+initial condition initial condition starting point differential equation x general solution differential equation thus one find value generic constant c
+region simple solid region e simple solid region simultaneously example bounded rectangular simple solid note boundary e closed surface
+problem boundary value problem independent variable equation whereas initial value problem value independent variable value lower boundary domain thus term initial problem
+region curve area curve region bounded given function horizontal
+regular partition given set collection partition regular every set collection property matter partitioned finitely many least one also belong collection
+inner product inner product generalization dot product vector space way multiply together result multiplication scalar
+related related problem problem least two figure rate one given sufficient information
+instantaneous rate change instantaneous rate change change rate particular instant change derivative value specific point graph instantaneous rate change specific point tangent line slope curve slope
+instantaneous velocity quantity us fast object moving anywhere along path instantaneous velocity usually simply velocity average velocity two path limit time therefore displacement two zero
+strategy calculating relative error relative error amount error measurement total measurement calculate relative error subtract measured value real value divide absolute number real value get relative error multiply get percent error
+relative maximum minimum relative maximum point point function direction increasing decreasing making point peak graph similarly relative minimum point point function direction decreasing increasing making point bottom graph
+remainder estimate alternating series quantity accurately nth partial sum alternating series sum series alternating series convergent remainder finite number
+removable discontinuity removable discontinuity point graph connected made connected filling single point function bottom term discontinuity denominator zero removable graph hole term cancel discontinuity x value corresponding term denominator zero graph vertical asymptote
+representation function function relation two one variable another variable represent different different ways usually
+representation function four ways function verbally function algebraically example x function numerically function graphically
+integrable function function integrable integral well defined integral mathematical sense practical integrability continuity function continuous given interval integrable interval
+change integral calculus integration substitution also known change method counterpart chain rule differentiation loosely thought chain rule backwards
+integral indefinite indefinite integral function another function visually integral symbol function end indefinite integral easier way symbolize taking
+integral definition calculus integral result function one variable example f x f x z way given
+integration numerical numerical integration approximate computation integral numerical numerical computation integral sometimes quadrature generalization trapezoidal rule integration yield accurate many function
+integration integration written product another function third function derivative good rule thumb follow would try first reformulate function correct form try integration
+integration power series within interval convergence integral power series sum individual x x see used find integral power series
+right cylinder right circular cylinder cylinder closed circular surface two parallel bases whose perpendicular base also right cylinder two circular bases right cylinder radius parallel
+rule rule determine direction magnetic force positive moving charge point right thumb direction velocity v index finger direction magnetic field b middle finger point direction resulting magnetic force f negative affected force opposite direction
+root function root function function expressed positive integer n greater graphical representation power dependent upon whether n even odd
+root law root law limit nth root function nth root limit function
+ruling surface surface set swept moving straight line example cone formed keeping one point line fixed whilst moving another point along circle surface doubly every one two distinct lie surface
+saddle point mathematics saddle point point point surface graph function orthogonal zero critical point local function example saddle point critical point relative minimum along one axial direction relative maximum along crossing axis however saddle point need form example function f x critical point saddle point since neither relative maximum relative minimum relative maximum relative minimum
+integration rational recall rational function ratio two p x q x integrate proper rational function apply method partial method turn integral complicated rational function sum simpler
+integration substitution method integration substitution given integral simple form integral substituting independent variable
+curve sketching function found setting function equal zero critical identify graph relative relative second derivative function function concave concave
+scalar real number rather vector quantity mass time magnitude describable real number direction
+scalar equation plane scalar equation plane normal vector n b c ax determine scalar equation plane normal n point p scalar equation
+scalar multiple vector multiplication vector scalar change magnitude vector scalar times direction resulting vector input vector scalar positive opposite direction scalar negative magnitude resulting vector absolute value scalar greater one shrank less one
+intermediate variable intermediate variable contingent variable causal variable mediator variable source dictionary epidemiology author porta variable causal pathway causal independent variable outcome dependent variable
+increase decrease curve sketching find increasing decreasing need find first derivative greater less zero first derivative positive original function increasing g x negative g x decreasing
+scalar product scalar product dot product two b read dot b defined norm b angle two norm norm b cos dot product b scalar quantity product magnitude component b along
+inverse function simple inverse function swapping x original function x one thing note inverse function inverse function reciprocal f x f x
+domain range inverse function domain inverse function range original range inverse function domain original important thing remember help understanding inverse
+scalar projection definition scalar projection length vector projection recall dot product vector scalar quantity magnitude particular vector scalar projection negative two heading opposite vice
+secant line secant line line curve two pretty much average rate change rate change two curve average rate change slope secant line two curve
+second derivative second derivative instantaneous rate change first derivative sign second derivative us whether slope tangent line f increasing decreasing second derivative us rate change rate change original function
+second test critical function test value second derivative determine whether local maximum local minimum
+inverse transformation inverse transformation process basic method sampling number inverse transformation process number uniform probability number x domain distribution p x
+involute circle also involute circle curve tangent fixed circle practically curve hand unwinding wire reel hand involute circle
+integral calculus integral result function one variable example f x f x z way given
+standard basis vector standard unit special unit parallel axes pointing toward positive
+second moment mathematics second moment method technique used probability theory analysis show random variable positive probability positive generally moment method bounding probability random variable far mean
+separable differential equation simply put differential equation said separable separable equation one written form f g x done solve equation integrate sides
+sequence bounded sequence bounded bounded say number k less equal sequence another number k greater equal sequence therefore sequence k k
+convergent sequence sequence getting closer closer certain value example sequence get closer closer also convergent sequence
+divergent sequence divergent sequence goes infinity minus infinity without settling towards value
+planetary motion actually three planetary motion every planet orbit ellipse sun focus line joining sun planet equal equal times square planet orbital period proportional cube axis orbit
+multiplier two mathematical optimization method strategy finding local maxima minima function subject equality subject condition one satisfied exactly chosen
+equation equation partial differential equation widely useful physics r known harmonic occur electrical magnetic gravitational hydrodynamics
+law lever law lever balanced weight one side fulcrum pivot point lever arm equal weight opposite side arm lever balanced sum fulcrum zero
+sequence sequence set one zero one proceeds based rule number number equal sum preceding two f customary use n
+least method least method statistical procedure find best fit set data sum plotted curve least regression used predict behavior dependent
+term sequence sequence list certain order number sequence term term sequence position first second third example consider sequence sequence number term
+limit limit limit function side getting limit function number idea check behavior function number substitute close possible number
+length vector length vector square root sum horizontal vertical horizontal vertical component zero b zero need vector length formula case length absolute value nonzero component
+level curve level curve simply cross section graph x taken constant value say function many level one different level curve value c range f x
+tangent plane level surface p q r given point p q r normal tangent plane surface u x z k point p q r thus say gradient normal surface u x z k point surface
+limit comparison test limit comparison test know whether series find whether diverge converge comparison test know whether knowledge attempt find whether
+find existence limit limit function exist following must true say function must appear going place sides single point easiest way determine existence comparison limit exist consider following fig g graph discontinuous however existence limit continuity graph f x straight line except f discontinuity despite x f x graph point side empty point compare example b function another value completely agree x x limit exist c limit exist disagreement well simply going infinity one side negative infinity positive example limit infinity would function x x f x x f x x c f x fig g
+limit function limit value function sequence input index value essential calculus mathematical analysis used define continuity
+absolutely convergent series mathematics infinite series said converge absolutely absolutely convergent sum absolute finite
+alternating series alternating series series alternate positive negative series contain term n similar n n
+limit infinity infinity used describe behavior independent variable without bound function numerical value l either write f x said horizontal asymptote l
+limit infinity highest power x numerator limit see consider dominant numerator denominator expression limit behave like large therefore limit
+binomial series polynomial equation two usually plus minus sign binomial used algebra one term monomial could look like polynomial two binomial could look like
+limit limit limit function side hand limit limit function side
+series multiply variable example term coefficient coefficient
+limit limit either two function f x real variable x x point either left right finding important since used limit limit exist must exist equal value l following three limit f x may exist duplicate
+conditionally convergent series series said conditionally convergent convergent converge absolutely
+parametric line x x denote x graph curve plane parametric line plane line defined point direction vector position radius vector r point p x line
+line skew skew parallel intersect first need show parallel take direction second part check one multiple example
+convergent series sequence partial convergent sequence limit finite series also convergent case n
+geometric series geometric series series ratio two consecutive constant function summation index general case ratio rational function summation index series hypergeometric series
+series series infinite series expansion inverse tangent function discovered later formula special case x series formula x u
+power series short power series offer way calculate transcend addition subtraction multiplication division let us four us among way program calculate like sin x x
+symmetric line symmetric form equation line equation two x relationship b line plane symmetric form like b
+vector equation line general vector equation function one vector vector equation line equation position vector every point along line works straight
+line integral line integral sometimes path integral integral function along curve one integrate function along curve example mass wire density one also integrate certain type along curve
+fundamental theorem line integral gradient theorem also known fundamental theorem calculus line line integral gradient field original scalar field curve
+line integral plane curve line integral us ability integrate vector arbitrary plane space two line scalar line vector line scalar line scalar function curve plane space
+line integral respect arc length line integral sometimes path integral integral function along curve one integrate function along curve example mass wire density one also integrate certain type along curve
+property convergence series series convergent sequence partial limit one order given indices one partial become closer closer given number
+sum series partial sum series sum first n sequence partial series sometimes real limit say limit sum series say series sum series sum individual tend zero
+series series way approximate function polynomial term polynomial comes function single point general formula series f x n n f n n n choice primarily based upon value polynomial polynomial becomes accurate approximation added summation
+series testing idea test term one series smaller another sum series must smaller every term series smaller corresponding term converging series smaller series must also converge
+set set group collection considered entity unto usually b object number set member element set
+bounded set real set real bounded real number k necessarily k set bounded upper lower therefore set real bounded finite interval
+ shift rigid translation change shape size graph function shift change location graph vertical shift constant every leaving unchanged
+sigma notation sigma notation method used write long sum concise way capital letter sigma
+derivative sine function derivative sine function written cos meaning rate change sin x particular angle x given cosine angle
+linear equation plane line determined point line direction line slope angle inclination given equation line written form likewise line l space determined know point p
+linear function linear whose graph straight line linear function following form f x linear function one independent variable one dependent variable independent variable x dependent variable
+sine function graph sine function beautiful curve every
+sine function inverse inverse sine function also inverse sine function since sine angle sine function equal ratio opposite side hypotenuse thus sine inverse ratio give measure angle let say angle sin opposite side
+linear model linear model equation relationship two show constant rate change
+linearization linearization function f x b l x f b b b similar familiar formula l x one variable extra term second variable
+figure curve also known figure curve graph system parametric describe complex harmonic motion family later detail
+logarithm logarithm power number must raised order get number see section math review example base ten logarithm ten raised power two log
+graph logarithmic function logarithmic function similar shape square root function vertical asymptote x right point graph logarithmic form b positive real number
+logistic differential equation logistic differential equation ordinary differential equation whose solution logistic function logistic model bounded growth standard exponential fail take account prevent indefinite growth logistic correct error
+longbow curve finding parametric equation longbow curve circle figure circle radius stationary every point p segment curve p longbow curve
+machine diagram function function machine diagram machine input rule set answer output task either determine input output whatever take place inside machine example
+skew two parallel also agonic since two plane must intersect parallel skew exist three
+slant asymptote slant asymptote also known oblique asymptote degree numerator polynomial greater degree denominator polynomial formula asymptote may determined dividing numerator denominator via long division
+equation line slope intercept form slope b use form linear equation draw graph equation plane
+series series polynomial representation function infinite sum calculated single point polynomial special case polynomial zero single point formula series derived following summation n n n
+marginal revenue function marginal revenue increase revenue sale one additional unit output marginal revenue remain constant certain level output law eventually slow output level
+mathematical model population growth exponential logistic growth mathematical model used compute population mathematical model population growth assumption population rate proportional size population exponential growth model p increment time initial population amount k growth factor another exponential growth model p increment time initial population amount k growth factor
+method method really algorithm gradient function direction also satisfying
+smooth curve defined smooth x x continuous simultaneously zero
+method least least method statistical procedure find best fit set data sum plotted curve least regression used predict behavior dependent
+strip common manufacture fabric computer printer typewriter let ribbon twice wide print head halves evenly
+monotonic sequence monotonic constantly increase constantly decrease
+monotonic sequence theorem informally state sequence increasing bounded sequence converge way sequence decreasing bounded converge
+graph natural exponential function graph function defined f x similar graph f x b natural exponential function simply version exponential function f x
+power series natural exponential function x let x exponential function x r x n n
+natural exponential function number ex follow inverse domain range defined x never negative e e graph
+natural growth law quantity rate proportional size equation form k equation law natural growth solution differential equation function equation
+natural logarithm function natural logarithm number n power exponent e raised equal constant e constant approximately equal n x n e natural logarithm mostly used pure mathematics calculus
+derivative natural logarithm function derivative natural logarithmic function x simply divided derivative found definition derivative calculator
+net change theorem net change theorem considering integral rate change quantity new value initial value plus integral rate change quantity net change positive number negative number zero
+ newton meter device newton related unit force newton one second type newton meter used measure energy unit energy joule
+integral curve integral curve parametric curve specific solution ordinary differential equation system differential equation vector field slope field corresponding integral tangent field point
+solution differential equation solution differential equation expression dependent variable independent one relation general solution possible typically arbitrary case ode arbitrary case
+equation sphere b c sphere r radius x z surface sphere general equation sphere x b z c
+parametric equation sphere one common form parametric equation sphere x z constant radius longitude colatitude since surface sphere two dimensional parametric usually two case
+spherical spherical r commonly used physics iso convention radial distance r distance origin polar angle theta angle respect polar axis azimuthal angle phi angle rotation initial meridian plane symbol rho often used instead r
+nondifferentiable function function differential case one variable function finite derivative
+convert spherical convert point spherical use
+squeeze theorem squeeze sandwich theorem f x g x h x point f k k g k must also equal use theorem find tricky like sin x x squeezing sin x x two find limit
+squeeze theorem squeeze theorem l integer n n n sequence direct result squeeze theorem also absolute value theorem
+nonintegrable function non integrable function one definite integral ca assigned value example function integrable ca assign integral number
+perpendicular line said perpendicular plane perpendicular every line plane definition definition perpendicularity two space said perpendicular angle two right angle
+normal distribution normal distribution continuous probability distribution probability density function function informally bell curve normal distribution approximation random distribution around single mean value
+polynomial approximation function function series nth degree polynomial series term nth derivative
+numerical integration numerical integration approximate computation integral numerical numerical computation integral sometimes quadrature generalization trapezoidal rule integration yield accurate many function
+function function function never repeat example function f x function answer input function f x x function different answer every input
+ limit either two function f x real variable x x point either left right used determine limit limit exist must exist equal value l following three limit f x may exist click explore source link view video
+open region region open entirely interior region closed boundary
+standard basis standard unit special unit parallel axes pointing toward positive
+standard position angle angle standard position vertex origin initial side along positive angle measured counterclockwise direction initial side terminal side angle said positive angle
+stationary point stationary occur maximum inflection based behavior around
+theorem stoke theorem surface integral curl function surface bounded closed surface equal line integral particular vector function around c closed curve surface bounded c
+strophoid strophoid curve given curve c let l variable line passing c let two l whose distance k distance k
+substitution rule substitution rule trick based following identity u function x u time problem method integration finding right substitution
+sum geometric series find sum finite geometric series use formula n number first term r common ratio
+sum sum two resultant resultant two found either parallelogram method triangle method
+sum law sum law first law sum law sum law basically limit sum two sum sum law f x g x exist
+sum rule probability one two mutually exclusive occur sum individual rule probability occurrence mutually exclusive sum individual
+parametric equation surface x x z z parametric surface surface
+surface integral vector field vector field f flow fluid surface integral f represent amount fluid flowing surface per unit time amount fluid flowing surface per unit time also flux fluid surface
+surface revolution area surface integral surface revolution surface space rotating curve generatrix around axis rotation revolution straight line cylindrical conical depending whether line parallel axis
+symmetry balanced also beauty form balanced property symmetrical especially correspondence size shape relative position opposite sides dividing line median plane center axis compare bilateral symmetry radial symmetry
+symmetry principle symmetry principle symmetry cause must appear effect effect may possess symmetry symmetry cause effects quantum
+inverse transformation said invertible linear transformation x inverse casual whatever input x
+derivative tangent function derivative tangent secant squared derivative cotangent negative cosecant squared
+tangent line curve tangent straight line smooth curve given curve one point point slope curve equal tangent tangent line may considered limiting position secant line two curve approach one another tangent line approximation function x point l x
+tangent line parametric curve slope tangent line parametric curve defined parametric x g given parametric curve horizontal tangent wherever curve concave positive concave negative
+tangent line space curve geometry tangent line simply tangent plane curve given point straight line curve point defined line pair infinitely close curve
+tangent line approximation among linear one powerful function x differentiable point f close function x locally linear like tangent line point certain us approximate original function f simpler function l linear advantageous limited information f f algebraically complicated explore essential recall f differentiable value slope tangent line x point f knowing point line slope line thus able find equation tangent line
+tangent plane plane point surface tangent surface point
+tangent plane approximation tangent line approximation function x point abscisse l x additional information found
+polynomial probably important application series use partial approximate partial finite easy compute call
+series series idea used computer science calculus chemistry physics mathematics series used create estimate guess function like
+term sequence sequence ordered list three mean continue forward pattern established number sequence term sequence first term second term third term
+terminal point vector vector specific quantity drawn line segment arrowhead one end initial point terminal point vector defined magnitude length line direction arrowhead terminal point

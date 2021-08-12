@@ -11,18 +11,19 @@ from NQTM import NQTM
 parser = argparse.ArgumentParser()
 parser.add_argument('--data_dir', required=True)
 parser.add_argument('--output_dir', required=True)
-parser.add_argument('--layer1', type=int, default=100)
-parser.add_argument('--layer2', type=int, default=100)
-parser.add_argument('--batch_size', type=int, default=200)
-parser.add_argument('--topic_num', type=int, default=50)
+parser.add_argument('--layer1', type=int, default=200)   #100 
+parser.add_argument('--layer2', type=int, default=200)   #100
+parser.add_argument('--batch_size', type=int, default=30)  #200
+#parser.add_argument('--topic_num', type=int, default=50)
+parser.add_argument('--topic_num', type=int, default=30)   #50
 parser.add_argument('--learning_rate', type=float, default=0.002)
 parser.add_argument('--keep_prob', type=float, default=1.0)
-parser.add_argument('--epoch', type=int, default=200)
+parser.add_argument('--epoch', type=int, default=100)   # 200
 parser.add_argument('--word_sample_size', type=int, default=20)
-parser.add_argument('--word_sample_epoch', type=int, default=150)
+parser.add_argument('--word_sample_epoch', type=int, default=50)   # 150
 parser.add_argument('--omega', type=float, default=1.0)
 parser.add_argument('--commitment_cost', type=float, default=0.1)
-parser.add_argument('--test_index', type=int, default=1)
+parser.add_argument('--test_index', type=int, default=3)
 args = parser.parse_args()
 
 
@@ -42,16 +43,31 @@ def create_minibatch(data):
         yield data[ixs]
 
 
-def print_top_words(beta, feature_names, n_top_words=15):
+def print_top_words(beta, feature_names, n_top_words=2):
     top_words = list()
     for i in range(len(beta)):
         top_words.append(" ".join([feature_names[j] for j in beta[i].argsort()[:-n_top_words - 1:-1]]))
-        print(top_words[-1])
+     #   print(top_words[-1])
 
     with open(os.path.join(args.output_dir, 'top_words_T{}_K{}_{}th'.format(n_top_words, args.topic_num, args.test_index)), 'w') as file:
         for line in top_words:
             file.write(line + '\n')
 
+def print_topic_words(beta,theta, feature_names,n_topic_selection=2, n_top_words=2):
+    top_words = list()
+    doc_topic_word=list()
+    for i in range(len(beta)):
+        top_words.append(" ".join([feature_names[j] for j in beta[i].argsort()[:-n_top_words - 1:-1]]))
+    for i in range(len(theta)):
+        #top_words.append(" ".join([feature_names[j] for j in beta[i].argsort()[:-n_top_words - 1:-1]]))
+#        for j in theta[i].argsort()[:-n_topic_selection - 1:-1]:
+            doc_topic_word.append(" ".join([top_words[j] for j in theta[i].argsort()[:-n_topic_selection - 1:-1]]))
+
+    with open(os.path.join(args.output_dir, 'topic_words_T{}_K{}_{}th'.format(n_top_words, args.topic_num, args.test_index)), 'w') as file:
+        for line in doc_topic_word:
+            file.write(line + '\n')
+    #        file.write('\n')
+#            print(line)
 
 def get_theta(model, x):
     data_size = x.shape[0]
@@ -83,9 +99,10 @@ def train(model, train_data, vocab, config):
         print('Epoch: ', '{:03d} loss: {:.3f}'.format(epoch + 1, np.mean(train_loss)))
 
     beta = model.sess.run((model.beta))
-    print_top_words(beta, vocab)
+#    print_top_words(beta, vocab)
 
     train_theta = get_theta(model, train_data)
+    print_topic_words(beta,train_theta, vocab)
     np.save(os.path.join(args.output_dir, 'theta_K{}_{}th'.format(args.topic_num, args.test_index)), train_theta)
     np.save(os.path.join(args.output_dir, 'beta_K{}_{}th'.format(args.topic_num, args.test_index)), beta)
 
