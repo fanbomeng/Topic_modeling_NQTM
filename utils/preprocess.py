@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--path',)
+parser.add_argument('--data_path',)
 parser.add_argument('--output_dir',)
 parser.add_argument('--min_df', type=int, default=5)
 args = parser.parse_args()
